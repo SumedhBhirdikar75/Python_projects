@@ -1,5 +1,5 @@
 def rpc():
-import random
+	import random
   inp = input('Enter your input')
   sys_score = 0
   you_score = 0
