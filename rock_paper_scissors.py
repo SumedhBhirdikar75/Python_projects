@@ -1,12 +1,12 @@
 def rpc():
-	import rando
+	import random
   inp = input('Enter your input')
   sys_score = 0
   you_score = 0
   draw = 0
   #result = ''
   while inp.lower() != 'quit':
-    #import random
+    
     result = ''
     choices = ['rock', 'paper', 'scissors']
     #inp = input('Enter your input')
